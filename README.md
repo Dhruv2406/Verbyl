@@ -1,6 +1,6 @@
 # Verbyl
 
-Verbyl is a an open source Music Player Application for musicophiles. 
+Verbyl is a an open source Music Player Application for musicophiles.
 
 This application was made as a group project whilst our pre final year.
 
@@ -25,6 +25,7 @@ The app gives you a swift UX, unlike any other apps available, predicting the mo
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/firebase-logo-vector.svg" alt="firebase" width="42" height="41"/></a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://toppng.com/uploads/preview/hp-mysql-logo-php-mysql-logo-11563201393jr92g693xl.png" alt="php/mysql" width="40" height="42"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/></a>
+<a href="https://www.heroku.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-3521485-2944929.png" alt="python" width="40" height="40"/></a>
 
 # Features
 
@@ -38,6 +39,7 @@ The app gives you a swift UX, unlike any other apps available, predicting the mo
 - A graphical chart, displaying number of songs the user has streamed based on 4 different moods.
 
 # Images
+
 ![1](https://user-images.githubusercontent.com/73271406/168602224-e48db841-e603-4537-ba22-259db6e0ee9e.png)
 ![2](https://user-images.githubusercontent.com/73271406/168602293-bfa23ce1-4557-49e6-a160-d7443355ce18.png)
 
@@ -54,10 +56,10 @@ The app gives you a swift UX, unlike any other apps available, predicting the mo
 - An equalizer can be added to adjust the sound quality.
 
 # Contributors
+
 - <a href="https://github.com/divyam-mistry">Divyam Mistry</a>
 
 # References
 
-- <a href= "https://medium.com/" target="_blank">Medium</a>
-- <a href= "https://stackoverflow.com/" target="_blank">Stack Overflow</a>
-
+- <a href="https://medium.com/">Medium</a>
+- <a href="https://stackoverflow.com/">Stack Overflow</a>
