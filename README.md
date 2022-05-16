@@ -37,6 +37,10 @@ The app gives you a swift UX, unlike any other apps available, predicting the mo
 - Mood Prediction algorithm, predicts the mood of current song
 - A graphical chart, displaying number of songs the user has streamed based on 4 different moods.
 
+# Images
+![1](https://user-images.githubusercontent.com/73271406/168602224-e48db841-e603-4537-ba22-259db6e0ee9e.png)
+![2](https://user-images.githubusercontent.com/73271406/168602293-bfa23ce1-4557-49e6-a160-d7443355ce18.png)
+
 # Demonstration Video
 
 [![Watch the video](https://github.com/Dhruv2406/Verbyl/blob/main/assets/images/LOGO-VERBYL.jpg)](https://drive.google.com/file/d/11RxmxrySaSuG3aYw5lu9SRUo0lpNhKIY/view?usp=sharing)
