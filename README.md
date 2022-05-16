@@ -55,3 +55,9 @@ The app gives you a swift UX, unlike any other apps available, predicting the mo
 
 # Contributors
 - <a href="https://github.com/divyam-mistry"><b>Divyam Mistry</b></a>
+
+# References
+
+- <a href= "https://medium.com/" target="_blank">Medium</a>
+- <a href= "https://stackoverflow.com/" target="_blank">Stack Overflow</a>
+
