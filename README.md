@@ -50,5 +50,4 @@ The app gives you a swift UX, unlike any other apps available, predicting the mo
 - An equalizer can be added to adjust the sound quality.
 
 # Contributors
-
-- Divyam Mistry
+- <a href="https://github.com/divyam-mistry"><b>Divyam Mistry</b></a>
