@@ -2,7 +2,7 @@
     <img src="https://github.com/Dhruv2406/Verbyl/blob/main/assets/images/LOGO-VERBYL.jpg" alt="Verbyl-Logo" height="100">
   <h3 align="center"><b>Music Player Application</b></h3>
 
-Musicophiles can listen to MP3 tracks for free. Any user who’s logged in the app making sure they’re connected with internet connectivity can access the music player to play/pause/stop/seek any track, managing playlists and queues. The biggest difference between the music player and existing applications is that it is completely ad-free and it predicts the mood according to the tracks any user streams. While playing music, users get a list of suggested tracks related to the current track.
+Here's Verbyl, with which, musicophiles can listen to MP3 tracks for free. Any user who’s logged in the app making sure they’re connected with internet connectivity can access the music player to play/pause/stop/seek any track, managing playlists and queues. The biggest difference between the music player and existing applications is that it is completely ad-free and it predicts the mood according to the tracks any user streams. While playing music, users get a list of suggested tracks related to the current track.
 
 # Overview
 
