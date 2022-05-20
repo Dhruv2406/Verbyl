@@ -66,7 +66,15 @@ The project consists of diverse technologies. The tech stack recognized for the 
 
 - <a href="https://github.com/divyam-mistry">Divyam Mistry</a>
 
+# Documentation
+
+[Documentation](https://drive.google.com/file/d/1aCK3c_k2ReGrqBL-zMr4lAuXqikQGVln/view?usp=sharing)
+
 # References
 
 - <a href="https://medium.com/">Medium</a>
 - <a href="https://stackoverflow.com/">Stack Overflow</a>
+
+# Feedback
+
+If you have any feedback, please reach out at druvmystry02@gmail.com
