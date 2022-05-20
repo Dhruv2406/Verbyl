@@ -68,7 +68,7 @@ The project consists of diverse technologies. The tech stack recognized for the 
 
 # Documentation
 
-[Documentation](https://drive.google.com/file/d/1aCK3c_k2ReGrqBL-zMr4lAuXqikQGVln/view?usp=sharing)
+- [Documentation](https://drive.google.com/file/d/1aCK3c_k2ReGrqBL-zMr4lAuXqikQGVln/view?usp=sharing)
 
 # References
 
