@@ -36,7 +36,7 @@ The app gives you a swift UX, unlike any other apps available, predicting the mo
 
 # Demonstration Video
 
- <a href="https://drive.google.com/file/d/11RxmxrySaSuG3aYw5lu9SRUo0lpNhKIY/view?usp=sharing">Project Preview</a>
+- [Project Preview](https://drive.google.com/file/d/11RxmxrySaSuG3aYw5lu9SRUo0lpNhKIY/view?usp=sharing)
 
 # Tech Stack
 
