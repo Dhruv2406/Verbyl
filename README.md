@@ -4,6 +4,10 @@
 
 Here's Verbyl, with which, musicophiles can listen to MP3 tracks for free. Any user who’s logged in the app making sure they’re connected with internet connectivity can access the music player to play/pause/stop/seek any track, managing playlists and queues. The biggest difference between the music player and existing applications is that it is completely ad-free and it predicts the mood according to the tracks any user streams. While playing music, users get a list of suggested tracks related to the current track.
 
+# Documentation
+
+- [Documentation](https://drive.google.com/file/d/1aCK3c_k2ReGrqBL-zMr4lAuXqikQGVln/view?usp=sharing)
+
 # Overview
 
 ## Objective
@@ -64,9 +68,6 @@ The project consists of diverse technologies. The tech stack recognized for the 
 
 - <a href="https://github.com/divyam-mistry">Divyam Mistry</a>
 
-# Documentation
-
-- [Documentation](https://drive.google.com/file/d/1aCK3c_k2ReGrqBL-zMr4lAuXqikQGVln/view?usp=sharing)
 
 # References
 
