@@ -6,7 +6,7 @@ Here's Verbyl, with which, musicophiles can listen to MP3 tracks for free. Any u
 
 # Documentation
 
-- [Documentation](https://drive.google.com/file/d/1aCK3c_k2ReGrqBL-zMr4lAuXqikQGVln/view?usp=sharing)
+- [Documentation](https://drive.google.com/file/d/1lSnfm28fZaSud0LaHi7YttMYeStbczg1/view?usp=sharing)
 
 # Overview
 
